@@ -95,7 +95,7 @@ export default class FontColorEditing extends Plugin {
 					label: 'Blue'
 				},
 				{
-					color: 'hsl(270, 75%, 60%)',
+					color: 'hsl(269, 100%, 28%)',
 					label: 'Purple'
 				}
 			],
